@@ -1,2 +1,2 @@
-First name: 'Misha'
-Last name: 'Pavlov'
+First name: 'Liza'
+Last name: 'Safonova'
