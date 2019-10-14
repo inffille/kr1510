@@ -1,7 +1,7 @@
-Dear Alex!
+Dear Alexander!
 Here is your task for this test work. You shall make 6 commits using following instructions.
 
-First part of your task: create branch that starts from commit with message 'Alex1' and name it 'Alex1'. Go to this branch and create commits as required at this branch. Do not forget to push your work to github after you finish.
+First part of your task: create branch that starts from commit with message 'Alexander1' and name it 'Alexander1'. Go to this branch and create commits as required at this branch. Do not forget to push your work to github after you finish.
 
 Commit 1:
 	Fix 'task1.py' so that it print your name 10 times and not mine 5 times. Commit message: 'task1 done'.
@@ -15,21 +15,21 @@ Commit 3:
 Commit 4:
 	Revert commit 2.
 
-Do not forget to push it all to github to a branch 'origin/Alex1'
+Do not forget to push it all to github to a branch 'origin/Alexander1'
 
 ==========================================================
 
-Second part of your task: go to a branch corresponding with 'origin/Alex2' and continue working there.
+Second part of your task: go to a branch corresponding with 'origin/Alexander2' and continue working there.
 
 Commit 5:
 	Fix 'task1.py' so that it print your last name (a.k.a family name) 15 times and not my name 5 times. Commit message: 'task5 done'
 
-Do not forget to push it all to github to a branch 'origin/Alex2'.
+Do not forget to push it all to github to a branch 'origin/Alexander2'.
 
 ===========================================================
 
-Third part: merge branches 'Alex1' and 'Alex2' together. Fix merge conflict so that 'task1.py' would print you first and last name 10 times.
+Third part: merge branches 'Alexander1' and 'Alexander2' together. Fix merge conflict so that 'task1.py' would print you first and last name 10 times.
 
-Do not forget to push it all to github to a branch 'origin/Alex2'.
+Do not forget to push it all to github to a branch 'origin/Alexander2'.
 
 Well done!
