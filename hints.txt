@@ -1,2 +1,2 @@
-First name: 'AlexSankek'
-Last name: 'Izyurov'
+First name: 'Arina'
+Last name: 'Klushina'
