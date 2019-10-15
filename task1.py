@@ -3,4 +3,9 @@
 # and not mine
 
 for i in range(10):
-	print('Pavlov ')
+<<<<<<< HEAD
+	print('Misha ')
+=======
+	print('Misha ')
+
+>>>>>>> Misha1
