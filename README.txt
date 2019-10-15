@@ -1,35 +1,30 @@
-Dear AlexSankek!
-Here is your task for this test work. You shall make 6 commits using following instructions.
+Dear student!
+Welcome to this test. I hope you did your best in exploring 'git'.
+During this test you can use any sources, including Internet,
+translators, books, notebooks. ANYTHING BUT YOUR COLLEAGUE!
+You can not ask anybody in the class (including teachers) or in
+the social nets about how to do the task.
 
-First part of your task: create branch that starts from commit with message 'AlexSankek1' and name it 'AlexSankek1'. Go to this branch and create commits as required at this branch. Do not forget to push your work to github after you finish.
+Time for the task: 30 minutes starting from time of the last
+commit at branch 'master'.
 
-Commit 1:
-	Fix 'task1.py' so that it print your name 10 times and not mine 5 times. Commit message: 'task1 done'.
+To see your task type
+'git show origin/<name>2:README.txt'
 
-Commit 2:
-	Create file named 'task2.py' with a function that would calculated sum of two numbers. Commit message: 'task2 done'.
-
-Commit 3:
-	Delete file 'task3.py'. Commit message: 'task3 done'.
-
-Commit 4:
-	Revert commit 2.
-
-Do not forget to push it all to github to a branch 'origin/AlexSankek1'
-
-==========================================================
-
-Second part of your task: go to a branch corresponding with 'origin/AlexSankek2' and continue working there.
-
-Commit 5:
-	Fix 'task1.py' so that it print your last name (a.k.a family name) 15 times and not my name 5 times. Commit message: 'task5 done'
-
-Do not forget to push it all to github to a branch 'origin/AlexSankek2'.
-
-===========================================================
-
-Third part: merge branches 'AlexSankek1' and 'AlexSankek2' together. Fix merge conflict so that 'task1.py' would print you first and last name 10 times.
-
-Do not forget to push it all to github to a branch 'origin/AlexSankek2'.
-
-Well done!
+Change <name> to the one corresponding to you:
+Balakshin Arthur			Arthur
+Boytsov Evgeniy				Zhenya
+Gavrilov Dmitriy			Dmitriy
+Danilin Ilya				Ilya
+Dvurechenskiy Alex			Alex
+Eremeev Alex				Alexander
+Zotov Mikhail				Mikhail
+Izyurov Alex				AlexSankek
+Klushina Arina				Arina
+Klyushnik Anastasia			Anastasia
+Matrenok Semen				Semen
+Pavlov Mikhail				Misha
+Safonova Liza				Liza
+Statev Vladlen				Vladlen
+Khmelevskiy Konstantin		Konstantin
+Shishkin Pavel				Pavel

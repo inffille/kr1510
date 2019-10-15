@@ -2,5 +2,8 @@
 # It should print your last name 10 times
 # and not mine
 
-for i in range(15):
-	print('Izyurov')
+# Now IT'S SANKEK TIME
+
+
+for i in range(10):
+	print('Alexander Izyurov')
