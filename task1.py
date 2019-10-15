@@ -3,4 +3,4 @@
 # and not mine
 
 for i in range(15):
-	print('Safonova')
+	print('Safonova.')
