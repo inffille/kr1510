@@ -2,7 +2,7 @@
 # It should print your first name 10 times
 # and not mine
 
-for i in range(10):
-	print('Ilya')
+for i in range(15):
+	print('Danilin')
 for i in range(5):
-	print('Kseniya')
+	print('Katya')
