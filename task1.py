@@ -2,5 +2,7 @@
 # It should print your last name 10 times
 # and not mine
 
-for i in range(15):
-	print('Dvurechenskiy')
+<<<<<<< HEAD
+for i in range(10):
+	print('Alexander Dvurechenskiy')
+>>>>>>> Alex1
