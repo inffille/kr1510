@@ -1,2 +1,2 @@
 while(True):
-	print("B")	
+	print("A")	
