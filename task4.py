@@ -1,2 +1,2 @@
 while(True):
-	print("c7")	
+	print("A")	
